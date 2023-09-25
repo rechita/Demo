@@ -4,3 +4,4 @@ def loop_for_git():
 
 if __name__ == '__main__':
     loop_for_git()
+    print('done')
